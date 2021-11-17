@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+The Tisk language
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Sexier version of Kotlin, with support for lots of cool things (this list not updated consistently):
+ * Easy threading
+ * Integration with loads of languages
